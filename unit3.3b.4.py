@@ -1,0 +1,5 @@
+tuple_data = (12, 5, 7, 6, 19)
+largest = max(tuple_data)
+smallest = min(tuple_data)
+print("Maximum: ", largest)
+print("Minimum: ", smallest)
